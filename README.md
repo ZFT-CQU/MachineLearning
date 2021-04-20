@@ -1,5 +1,5 @@
 # MachineLearning
-some source code of  my machine learning
+some source code of machine learning
 
 1、HAP(Learning Hypergraph-regularized Attribute Predictors)
 
